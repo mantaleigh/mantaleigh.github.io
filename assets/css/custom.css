@@ -1,0 +1,7 @@
+.skillset ul li { 
+/*    list-style-type: none;*/
+/*    color: #A1232E;*/
+    font-weight: 600;
+/*    text-transform: uppercase;*/
+    font-family: "Lato", arial, sans-serif;
+}
